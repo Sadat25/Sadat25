@@ -54,6 +54,11 @@ A minimal and responsive To-Do application where users can add, edit, delete, an
 Tech: React, Tailwind CSS, LocalStorage 
 🔗 https://todos25.netlify.app/
 
+
+---
+
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 ---
 
 # 📊 Stats
