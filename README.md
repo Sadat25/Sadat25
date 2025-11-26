@@ -62,7 +62,7 @@ Tech: React, Tailwind CSS, LocalStorage
 ---
 
 # 📊 Stats
-![Sadat25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamin-Coding&show_icons=true&theme=radical)
+![Sadat25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadat25&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sadat25&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadat25&layout=compact&theme=radical)
 
