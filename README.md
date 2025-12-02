@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=SADAT%20SHAHRIAR%20RAFIN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AF748&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sadat+Shahriar+Rafin;%F0%9F%8C%B1+I%E2%80%99m+interested+in+learning+new+skills;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+currently+learning+Frontend+Web+Dev....;%F0%9F%91%80+I%E2%80%99m+looking+to+collaborate+on+...;%F0%9F%93%AB+How+to+reach+me+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AF748&width=800&lines=%F0%9F%8C%B1+I%E2%80%99m+interested+in+learning+new+skills;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+currently+learning+Frontend+Web+Dev....;%F0%9F%91%80+I%E2%80%99m+looking+to+collaborate+on+...;%F0%9F%93%AB+How+to+reach+me+...)](https://git.io/typing-svg)
 
 ---
 
