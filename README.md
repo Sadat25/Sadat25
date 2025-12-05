@@ -70,7 +70,7 @@ Tech: React, Tailwind CSS, LocalStorage
 
 ## 🔗 Links
 - 🎨 **Portfolio:** https://github.com/Sadat25
-- 💼 **LinkedIn:** *Add your link* 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sadat-shahriar-rafin-68274a35b/ 
 - 📧 **Email:** sadatshahriarrafin@gmail.com
 
 ---
