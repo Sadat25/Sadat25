@@ -41,17 +41,20 @@ I am a Front-End Developer with expertise in building modern, responsive, and vi
 
 ### 🔹 **1. Portfolio Website**
 Modern personal portfolio with smooth animations and responsive design.  
-**Tech:** React, Tailwind CSS  
+**Tech:** React, Tailwind CSS, LocalStorage.
+
 🔗 *Add your deployed link here*
 
 ### 🔹 **2. E-Commerce UI**
 Clean and functional e-commerce front-end with filtering and cart UI.  
-**Tech:** React, Redux Toolkit, SCSS  
-🔗 (https://e-commerce-website-alpha-five.vercel.app/)
+**Tech:** React, Tailwind CSS, LocalStorage.
+
+🔗 https://e-commerce-website-alpha-five.vercel.app/
 
 ### 🔹 3.  To-Do App
 A minimal and responsive To-Do application where users can add, edit, delete, and mark tasks as completed. Designed with clean UI and smooth interactions.
-Tech: React, Tailwind CSS, LocalStorage 
+**Tech:** React, Tailwind CSS, LocalStorage.
+
 🔗 https://todos25.netlify.app/
 
 
@@ -69,9 +72,9 @@ Tech: React, Tailwind CSS, LocalStorage
 ---
 
 ## 🔗 Links
-- 🎨 **Portfolio:** https://github.com/Sadat25
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sadat-shahriar-rafin-68274a35b/ 
-- 📧 **Email:** sadatshahriarrafin@gmail.com
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sadat25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadat-shahriar-rafin-68274a35b/)
 
 ---
 
