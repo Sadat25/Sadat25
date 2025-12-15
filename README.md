@@ -73,7 +73,7 @@ A minimal and responsive To-Do application where users can add, edit, delete, an
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sadat25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sadat-shahriar-rafin-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadat-shahriar-rafin-68274a35b/)
 
 ---
