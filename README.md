@@ -36,7 +36,7 @@ I am a Front-End Developer with expertise in building modern, responsive, and vi
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+  
 ## ⭐ Featured Projects
 
 ### 🔹 **1. Portfolio Website**
